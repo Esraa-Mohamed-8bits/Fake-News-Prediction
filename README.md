@@ -115,7 +115,6 @@ jupyter notebook
 ├── Project_3_Fake_News_Prediction.ipynb
 ├── dataset.csv
 ├── README.md
-├── requirements.txt
 
 🎯 Future Improvements
 
